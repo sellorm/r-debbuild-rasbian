@@ -1,0 +1,4 @@
+#!/bin/bash
+update-alternatives --install /usr/local/bin/R R /opt/R/3.5.2/bin/R 2
+update-alternatives --install /usr/local/bin/Rscript Rscript /opt/R/3.5.2/bin/Rscript 2
+
